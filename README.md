@@ -13,3 +13,8 @@ ImageCollectionViewController class used for displaying the images on grid.
 
 
 
+Video:
+
+
+https://github.com/GireshD/ImageGrid/assets/32384820/807fdd90-4171-4cc6-b1a1-3b104989f86c
+
